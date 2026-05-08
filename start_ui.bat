@@ -1,0 +1,3 @@
+@echo off
+echo 🎨 Starting IDEP Streamlit UI...
+streamlit run streamlit_app/app.py

@@ -1,0 +1,3 @@
+@echo off
+echo 🚀 Starting IDEP API Server...
+python run.py
